@@ -6,7 +6,8 @@ Creating a data dashboard for Career Foundry Exercise 6.7
 <p>Context</p>
 <p> You’ll first conduct an exploratory visual analysis in Python before identifying connections between variables worth further exploration. Then, after developing hypotheses, you’ll use various advanced analytical approaches to help test them before presenting your results in a Tableau dashboard/storyboard.</p>
 <p>Data Set</p>
-<p> Brazilian e-commerce order data from Olist Store, with 100K+ orders from 2016-2018 across multiple marketplaces.  Source is from Kaggle accessed in June 2025.  </p>
+<p> Brazilian e-commerce order data from Olist Store, with 100K+ orders from 2016-2018 across multiple marketplaces.  Source is from Kaggle accessed in June 2025.<br><a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data">https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data</a></p>
+<p>Brazil GeoJSON from <a href="https://raw.githubusercontent.com/codeforamerica/click_that_hood/master/public/data/brazil-states.geojson">https://raw.githubusercontent.com/codeforamerica/click_that_hood/master/public/data/brazil-states.geojson</a></p>
 <p> It covers: </p>
 <p> ●  Order status, price, payment, and freight details 
  ● Customer locations and product attributes 
