@@ -20,10 +20,10 @@ Creating a data dashboard for Career Foundry Exercise 6.7
  ● Time-series analysis;
  ● Analysis narrative and final results (presented in your dashboard).</p>
 <p>Your Project Deliverables</p>
-<p> Exercise 6.1: Sourcing Open Data
- Exercise 6.2: Exploring Relationships
- Exercise 6.3: Geographical Visualizations with Python
- Exercise 6.4: Supervised Machine Learning: Regression
- Exercise 6.5: Unsupervised Machine Learning: Clustering
- Exercise 6.6: Sourcing &amp; Analyzing Time Series Data
- Exercise 6.7: Creating Data Dashboards</p>
+<p> Exercise 6.1: Sourcing Open Data</p>
+<p> Exercise 6.2: Exploring Relationships</p>
+<p> Exercise 6.3: Geographical Visualizations with Python</p>
+<p> Exercise 6.4: Supervised Machine Learning: Regression</p>
+<p> Exercise 6.5: Unsupervised Machine Learning: Clustering</p>
+<p> Exercise 6.6: Sourcing &amp; Analyzing Time Series Data</p>
+<p> Exercise 6.7: Creating Data Dashboards</p>
