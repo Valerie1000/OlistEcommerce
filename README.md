@@ -27,4 +27,5 @@ Creating a data dashboard for Career Foundry Exercise 6.7
 <p> Exercise 6.4: Supervised Machine Learning: Regression</p>
 <p> Exercise 6.5: Unsupervised Machine Learning: Clustering</p>
 <p> Exercise 6.6: Sourcing &amp; Analyzing Time Series Data</p>
-<p> Exercise 6.7: Creating Data Dashboards</p>
+<p> Exercise 6.7: Creating Data Dashboards:<br><a href="https://public.tableau.com/views/Ecommerce_17512512705870/ECommerce?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">https://public.tableau.com/views/Ecommerce_17512512705870/ECommerce?:language=en-US&amp;publish=yes&amp;:sid=&amp;:redirect=auth&amp;:display_count=n&amp;:origin=viz_share_link</a></p>
+
