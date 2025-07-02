@@ -20,7 +20,7 @@ Creating a data dashboard for Career Foundry Exercise 6.7
  ● Cluster analysis;
  ● Time-series analysis;
  ● Analysis narrative and final results (presented in your dashboard).</p>
-<p>Your Project Deliverables</p>
+<p>Project Deliverables</p>
 <p> Exercise 6.1: Sourcing Open Data</p>
 <p> Exercise 6.2: Exploring Relationships</p>
 <p> Exercise 6.3: Geographical Visualizations with Python</p>
